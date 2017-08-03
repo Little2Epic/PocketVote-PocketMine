@@ -3,10 +3,4 @@ main: ProjectInfinity\PocketVote\PocketVote
 version: 2.0.2
 api: [3.0.0-ALPHA6, 3.0.0-ALPHA7]
 author: ProjectInfinity
-permissions:
-  pocketvote.admin:
-    description: "Allows player to manage PocketVote"
-    default: op
-  pocketvote.vote:
-    description: "Allows a player to use the /vote command"
-    default: true
+description: "Allows a player to use the /vote command"
